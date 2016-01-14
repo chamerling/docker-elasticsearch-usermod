@@ -1,5 +1,7 @@
 # About this Repo
 
+This is a fork of the official repo defined below. Just added 'usermod -u 1000 elasticsearch' at the right place so we can mount volumes on OS X and co.
+
 This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [elasticsearch](https://registry.hub.docker.com/_/elasticsearch/). See [the Docker Hub page](https://registry.hub.docker.com/_/elasticsearch/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
 
 The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specificially in [docker-library/docs/elasticsearch](https://github.com/docker-library/docs/tree/master/elasticsearch).
